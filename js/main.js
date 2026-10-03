@@ -6,7 +6,7 @@
       t: 'Team project',
       d: 'A full-stack web app for home maintenance and cleaning services. It has service browsing, appointment booking, order tracking, and admin management tools.',
       i: 'assets/images/project-home-services.jpg',
-      tags: ['next', 'tw', 'supa', 'stripe'],
+      tags: ['next', 'mui', 'node', 'express', 'supa', 'stripe'],
       l: [
         ['GitHub (FE)', 'https://github.com/AphisakDev/Project_Home_Services_FrontEnd'],
         ['GitHub (BE)', 'https://github.com/AphisakDev/Project_Home_Services_backend/'],
@@ -18,7 +18,7 @@
       t: 'Team project',
       d: 'An online pet-sitting booking platform where pet owners can find, book, and review sitters, while sitters manage profiles and appointments with real-time updates.',
       i: 'assets/images/project-pet-sitter.jpg',
-      tags: ['react', 'tw', 'node', 'express', 'pg'],
+      tags: ['vue', 'tw', 'java', 'spring', 'pg'],
       l: [
         ['GitHub (FE)', 'https://github.com/AphisakDev/Project_Pet_Sitter_Client'],
         ['GitHub (BE)', 'https://github.com/AphisakDev/Project_Pet_Sitter_Server'],
@@ -30,7 +30,7 @@
       t: 'Personal project',
       d: 'A modern tech and AI blog with interactive content, article bookmarks, newsletter subscription, and responsive reading experience.',
       i: 'assets/images/project-personal-blog.jpg',
-      tags: ['next', 'tw', 'ts'],
+      tags: ['react', 'tw', 'ts', 'supa'],
       l: [
         ['GitHub', 'https://github.com/AphisakDev/ai-holographic-blog'],
         ['Website', 'https://ai-holographic-blog-virq.vercel.app/']
